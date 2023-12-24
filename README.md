@@ -8,7 +8,7 @@
   - [Updating a File Through a Python Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Applying Filters to SQL Queries](https://github.com/joshmadakor1/Algorithms-Practice)
   - [File Permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Security Audit](https://github.com/Rahul0902/security-audit/)
   - [Vulnerability Assessment](https://github.com/Rahul0902/vulnerability-assessment/)
   - [Incident Report Analysis](https://github.com/Rahul0902/incident-report-analysis/)
   - [Incident Handler Journel](https://github.com/Rahul0902/incident-handler-journal)
