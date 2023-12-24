@@ -11,7 +11,7 @@
   - [Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Vulnerability Assessment](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Incident Response](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Incident Handler Journel](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Incident Handler Journel](https://github.com/Rahul0902/incident-handler-journal)
 
 <br> 
 <h2>📄 Certifications</h2>
