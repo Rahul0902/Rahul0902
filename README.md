@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cyber Security Projects & CTFs</h2>
 
 - <b>CTFs</b>
-  - [Bypassing Deny Lists](https://github.com/Rahul0902/python-file-update/)
+  - [Bypassing Deny Lists](https://github.com/Rahul0902/bypassing-deny-lists/)
 
 - <b>Google Cyber Security Professional Certificate Projects:</b>
   - [Updating a File Through a Python Algorithm](https://github.com/Rahul0902/python-file-update/)
