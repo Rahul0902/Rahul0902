@@ -2,7 +2,10 @@
 <h3>I'm a computer science graduate with nearly 2 years of experience working as a website consultant, and I am now making an exciting transition into cybersecurity.</h3>
 
 
-<h2>👨‍💻 Cyber Security Projects</h2>
+<h2>👨‍💻 Cyber Security Projects & CTFs</h2>
+
+- <b>CTFs</b>
+  - [Bypassing Deny Lists](https://github.com/Rahul0902/python-file-update/)
 
 - <b>Google Cyber Security Professional Certificate Projects:</b>
   - [Updating a File Through a Python Algorithm](https://github.com/Rahul0902/python-file-update/)
@@ -12,7 +15,7 @@
   - [Vulnerability Assessment](https://github.com/Rahul0902/vulnerability-assessment/)
   - [Incident Report Analysis](https://github.com/Rahul0902/incident-report-analysis/)
   - [Incident Handler Journel](https://github.com/Rahul0902/incident-handler-journal)
-
+ 
 <br> 
 <h2>📄 Certifications</h2>
  
