@@ -15,12 +15,7 @@
   - [Vulnerability Assessment](https://github.com/Rahul0902/vulnerability-assessment/)
   - [Incident Report Analysis](https://github.com/Rahul0902/incident-report-analysis/)
   - [Incident Handler Journel](https://github.com/Rahul0902/incident-handler-journal)
- 
-<br> 
-<h2>📄 Certifications</h2>
- 
-- [Google Cyber Security Professional Certificate](https://www.credly.com/go/05QP8Vu0)
- 
+  
 <br>
 <h2>🤳 Connect With Me</h2>
 <a href="https://www.linkedin.com/in/-rahul-singh/">LinkedIn</a>
