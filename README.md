@@ -1,5 +1,5 @@
 <h1>Hi, I'm Rahul!</h1>
-<h3>I'm a computer science graduate with nearly 2 years of experience working as a website consultant, and I am now making an exciting transition into cybersecurity.</h3>
+<h3>As a computer science graduate with close to 2 years of experience in the role of a Technical Solutions Consultant, I take pride in showcasing a collection of accomplished projects and Capture The Flag (CTF) challenges. This portfolio is a testament to my ongoing journey in the field of Cybersecurity, and I am consistently expanding it with new and exciting endeavors.</h3>
 
 
 <h2>👨‍💻 Cyber Security Projects & CTFs</h2>
