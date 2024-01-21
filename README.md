@@ -6,7 +6,7 @@
 
 - <b>CTFs</b>
   - [Bypassing Deny Lists](https://github.com/Rahul0902/bypassing-deny-lists/)
-  - [Reverse Shell & Privilege Escalation]
+  - [Reverse Shell & Privilege Escalation](https://github.com/Rahul0902/reverse-shell-privilege-escalation)
 
 - <b>Google Cyber Security Professional Certificate Projects:</b>
   - [Updating a File Through a Python Algorithm](https://github.com/Rahul0902/python-file-update/)
