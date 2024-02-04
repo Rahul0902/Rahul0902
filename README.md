@@ -4,11 +4,11 @@
 
 <h2>👨‍💻 Cyber Security Projects & CTFs</h2>
 
-- <b>CTFs</b>
+- <b>Attack CTFs 🔴🗡️</b>
   - [Bypassing Deny Lists](https://github.com/Rahul0902/bypassing-deny-lists/)
   - [Reverse Shell & Privilege Escalation](https://github.com/Rahul0902/reverse-shell-privilege-escalation)
 
-- <b>Defence Focused CTFs 🔵🛡</b>
+- <b>Defence CTFs 🔵🛡</b>
   - [Network Forensics - Wireshark](https://github.com/Rahul0902/network-forensics-wireshark)
 
 - <b>Google Cyber Security Professional Certificate Projects:</b>
