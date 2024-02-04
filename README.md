@@ -8,6 +8,9 @@
   - [Bypassing Deny Lists](https://github.com/Rahul0902/bypassing-deny-lists/)
   - [Reverse Shell & Privilege Escalation](https://github.com/Rahul0902/reverse-shell-privilege-escalation)
 
+- <b>Defence Focused CTFs 🔵🛡</b>
+  - [Network Forensics - Wireshark](https://github.com/Rahul0902/bypassing-deny-lists/)
+
 - <b>Google Cyber Security Professional Certificate Projects:</b>
   - [Updating a File Through a Python Algorithm](https://github.com/Rahul0902/python-file-update/)
   - [Applying Filters to SQL Queries](https://github.com/Rahul0902/SQL-filter-queries)
