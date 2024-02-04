@@ -9,7 +9,7 @@
   - [Reverse Shell & Privilege Escalation](https://github.com/Rahul0902/reverse-shell-privilege-escalation)
 
 - <b>Defence Focused CTFs 🔵🛡</b>
-  - [Network Forensics - Wireshark](https://github.com/Rahul0902/bypassing-deny-lists/)
+  - [Network Forensics - Wireshark](https://github.com/Rahul0902/network-forensics-wireshark)
 
 - <b>Google Cyber Security Professional Certificate Projects:</b>
   - [Updating a File Through a Python Algorithm](https://github.com/Rahul0902/python-file-update/)
