@@ -2,7 +2,7 @@
 <h3>Below is a collection of accomplished projects and Capture The Flag (CTF) challenges. This portfolio is a testament to my ongoing journey in the field of Cybersecurity, and I am consistently expanding it with new and exciting endeavors.</h3>
 
 
-<h2>👨‍💻 Cyber Security Projects & CTFs</h2>
+<h2>Capture The Flag Challenges 🏴‍☠️</h2>
 
 - <b>Attack CTFs 🔴🗡️</b>
   - [Bypassing Deny Lists](https://github.com/Rahul0902/bypassing-deny-lists/)
@@ -10,6 +10,11 @@
 
 - <b>Defence CTFs 🔵🛡</b>
   - [Network Forensics - Wireshark](https://github.com/Rahul0902/network-forensics-wireshark)
+ 
+<h2>Projects🧑‍💻</h2>
+
+- <a href='https://github.com/Rahul0902/python-keylogger'><b>Basic Python Keylogger</b></a>
+  
 
 - <b>Google Cyber Security Professional Certificate Projects:</b>
   - [Updating a File Through a Python Algorithm](https://github.com/Rahul0902/python-file-update/)
