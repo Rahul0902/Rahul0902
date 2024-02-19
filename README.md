@@ -13,9 +13,9 @@
  
 <h2>Projects🧑‍💻</h2>
 
-- <a href='https://github.com/Rahul0902/python-keylogger'><b>Basic Python Keylogger</b></a>
-
 - <a href='https://github.com/Rahul0902/secure-registration-form/'><b>Building Secure Forms with Flask</b></a>
+
+- <a href='https://github.com/Rahul0902/python-keylogger'><b>Basic Python Keylogger</b></a>
   
 - <b>Google Cyber Security Professional Certificate Projects:</b>
   - [Updating a File Through a Python Algorithm](https://github.com/Rahul0902/python-file-update/)
